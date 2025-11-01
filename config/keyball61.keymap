@@ -72,7 +72,7 @@
 
         plus_ {
             bindings = <&kp PLUS>;
-            key-positions = <58 44>;
+            key-positions = <58 31>;
         };
     };
 

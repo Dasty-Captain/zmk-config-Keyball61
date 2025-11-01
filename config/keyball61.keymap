@@ -49,6 +49,16 @@
             bindings = <&kp LG(MINUS)>;
             key-positions = <20 19>;
         };
+
+        scroll {
+            bindings = <&msc MOVE_X(10)>;
+            key-positions = <55 28>;
+        };
+
+        mission {
+            bindings = <&kp LC(UP_ARROW)>;
+            key-positions = <55 27>;
+        };
     };
 
     behaviors {

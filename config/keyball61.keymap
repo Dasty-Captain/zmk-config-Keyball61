@@ -51,13 +51,23 @@
         };
 
         scroll {
-            bindings = <&msc MOVE_X(10)>;
-            key-positions = <55 28>;
+            bindings = <&msc MOVE_Y(-20)>;
+            key-positions = <55 40>;
         };
 
         mission {
             bindings = <&kp LC(UP_ARROW)>;
             key-positions = <55 27>;
+        };
+
+        scroll_down {
+            bindings = <&msc MOVE_Y(20)>;
+            key-positions = <55 39>;
+        };
+
+        minus {
+            bindings = <&kp MINUS>;
+            key-positions = <58 30>;
         };
     };
 

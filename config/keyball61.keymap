@@ -45,7 +45,7 @@
             key-positions = <20 21>;
         };
 
-        minus {
+        minus_ {
             bindings = <&kp LG(MINUS)>;
             key-positions = <20 19>;
         };

@@ -47,7 +47,7 @@
 
         minus_ {
             bindings = <&kp LG(MINUS)>;
-            key-positions = <20 19 28>;
+            key-positions = <20 19>;
         };
 
         scroll {

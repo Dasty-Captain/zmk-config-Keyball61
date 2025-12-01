@@ -61,7 +61,7 @@
         };
 
         scroll_down {
-            bindings = <&mo 5>;
+            bindings = <&mo 3>;
             key-positions = <55 39>;
         };
 
